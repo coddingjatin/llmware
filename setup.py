@@ -61,7 +61,7 @@ setup(
         'boto3>=1.24.53',
         'colorama==0.4.6'
     ],
-
+    
     extras_require={
         'milvus': ['pymilvus<=2.5.1'],
         'chromadb': ['chromadb>=0.4.22'],
