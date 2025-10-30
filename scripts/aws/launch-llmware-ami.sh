@@ -1,5 +1,4 @@
 #! /bin/bash
-
 # This is an example of programmatically launching the llmware AMI from the 'aws' command line
 # Details:
 #   instance-type: 
