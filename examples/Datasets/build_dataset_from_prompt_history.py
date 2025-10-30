@@ -7,7 +7,6 @@ from llmware.prompts import Prompt
 from llmware.dataset_tools import Datasets
 from llmware.configs import LLMWareConfig
 
-
 # Use prompt history to easily create model-ready fine-tuning datasets
 def create_datasets_from_prompt_history(model_name):
 
